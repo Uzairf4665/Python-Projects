@@ -18,7 +18,7 @@ This script attempts to brute-force an SSH login using a list of common password
    ```bash
    git clone https://github.com/your-username/repo-name.git
    cd repo-name
-
+ ```
 ## Install Dependencies:
 ```bash
 pip install paramiko
